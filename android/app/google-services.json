@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011617769854",
+    "project_id": "real-time-chat-app-fee92",
+    "storage_bucket": "real-time-chat-app-fee92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011617769854:android:527ffece0b69e4312aeb2f",
+        "android_client_info": {
+          "package_name": "com.chatapprealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011617769854-l28qvceou7f5n2launhmgoacdv5fsgn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatapprealtime",
+            "certificate_hash": "39e07c93ac7c7b51c32e4872b4559882e5629d0b"
+          }
+        },
+        {
+          "client_id": "1011617769854-45rhiitpbd6bhklk0u60suosdmg8qqfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmtl16wlEGe6mP66KX_xFZMZ9I4Ekk0Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011617769854-45rhiitpbd6bhklk0u60suosdmg8qqfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
